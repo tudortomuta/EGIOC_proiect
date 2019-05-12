@@ -1,0 +1,9 @@
+Am adaugat functionalitati multiple+remodelat design-ul(adaugand elemente de css)
+ca sa se incadreze tot in dimensiunile browser-ului:
+
+W - MOVE UP
+S - MOVE DOWN
+A - MOVE LEFT
+D - MOVE RIGHT
++ - ZOOM IN
+- - ZOOM OUT
